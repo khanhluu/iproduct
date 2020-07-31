@@ -20,5 +20,5 @@ Access eDiscovery by http://localhost:8888/swagger-ui.html
 ### Noted CURL
 -Get All Products
 ```sh
-curl -X GET "http://localhost:8888/api/product" -H "accept: application/json"
+curl -X GET "http://localhost:8001/api/product" -H "accept: application/json"
 ```

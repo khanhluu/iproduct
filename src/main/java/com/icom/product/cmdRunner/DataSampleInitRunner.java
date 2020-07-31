@@ -17,7 +17,6 @@ import com.icom.product.model.Category;
 import com.icom.product.repository.CategoryRepository;
 
 /**
- * @author
  * Data samples for Dev profile
  */
 @Component
